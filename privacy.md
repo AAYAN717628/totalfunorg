@@ -1,4 +1,4 @@
-Total Fun prime bot is made from the Discord.js Library so the same policy of Discord.js is applicable here as well.
+Total Fun  bot is made from the Discord.js Library so the same policy of Discord.js is applicable here as well.
 
 By using this bot means you are allowing the bot to store your discord and MongoDb data in a seperate database other than Mihoyo's official data storage. Please be aware that this is not an official Mihoyo's project, This bot is made by fans of Genshin Imapct from Blazing Impact Community. In the case you do not agree to any of the terms, you may immediately stop using our services. We may periodically modify, adjust or revise the terms of this Privacy Policy. The updated terms will be announced to you and obtain your consent again. You agree to check the updated terms regularly. If major clause changes are involved, we will make an announcement in advance.
 
